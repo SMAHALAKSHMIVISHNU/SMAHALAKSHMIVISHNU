@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S-MAHALAKSHMI
- ![S. Mahalakshmi](https://github.com/SMAHALAKSHMIVISHNU/SMAHALAKSHMIVISHNU/blob/main/WhatsApp%20Image%202025-05-21%20at%2010.35.22%20PM.jpeg?raw=true)
+ ![S.Mahalakshmi](image.png)
 - 👀 I’m interested in Data Analytics, Business Intelligence, and Machine Learning
 - 🌱 I’m currently learning Data Science & Machine Learning through the Entri Elevate 
 - 💞️ I’m looking to collaborate on beginner-friendly data analysis projects
